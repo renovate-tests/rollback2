@@ -1,0 +1,8 @@
+{
+  "name": "rollback2",
+  "version": "0.0.1",
+  "dependencies": {
+    "renovate": "12.30.11"
+  },
+  "renovate": {}
+}
